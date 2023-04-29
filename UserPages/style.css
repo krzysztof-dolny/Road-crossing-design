@@ -1,0 +1,42 @@
+.circle {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#circle1z {
+    background-color: gray;
+    left: 980px;
+    top: 660px;
+}
+
+#circle1p {
+    background-color: gray;
+    left: 980px;
+    top: 635px;
+}
+
+#circle1c {
+    background-color: gray;
+    left: 980px;
+    top: 610px;
+}
+
+#circle2z {
+    background-color: gray;
+    left: 1090px;
+    top: 660px;
+}
+
+#circle2p {
+    background-color: gray;
+    left: 1090px;
+    top: 635px;
+}
+
+#circle2c {
+    background-color: gray;
+    left: 1090px;
+    top: 610px;
+}

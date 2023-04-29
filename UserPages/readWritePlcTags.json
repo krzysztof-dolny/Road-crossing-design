@@ -1,0 +1,14 @@
+{
+"sw_auto_1z" :	":="webdata".sw_auto_1z:",
+"sw_auto_1p" :	":="webdata".sw_auto_1p:",
+"sw_auto_1c" :	":="webdata".sw_auto_1c:"
+"sw_auto_2z" :	":="webdata".sw_auto_2z:",
+"sw_auto_2p" :	":="webdata".sw_auto_2p:",
+"sw_auto_2c" :	":="webdata".sw_auto_2c:"
+}
+<!-- AWP_In_Variable Name='"sw_auto_1z"' Use='"webdata".sw_auto_1z' -->
+<!-- AWP_In_Variable Name='"sw_auto_1p"' Use='"webdata".sw_auto_1p' -->
+<!-- AWP_In_Variable Name='"sw_auto_1c"' Use='"webdata".sw_auto_1c' -->
+<!-- AWP_In_Variable Name='"sw_auto_2z"' Use='"webdata".sw_auto_2z' -->
+<!-- AWP_In_Variable Name='"sw_auto_2p"' Use='"webdata".sw_auto_2p' -->
+<!-- AWP_In_Variable Name='"sw_auto_2c"' Use='"webdata".sw_auto_2c' -->
